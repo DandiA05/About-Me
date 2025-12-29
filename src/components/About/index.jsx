@@ -31,7 +31,7 @@ const About = () => {
                         A Frontend Developer with {yearsOfExperience} years of experience, passionate about creating user-friendly and functional web applications. Experienced with HTML, CSS, JavaScript, and various frameworks like <span className="text-title font-black">React(Next.js)</span> and <span className="text-title font-black">Vue</span>.
                     </p>
 
-                    <a href="/assets/DANDI ANTO ANTO CV - FRONTEND DEVELOPER.pdf" download="" className="button group">
+                    <a href="/assets/cv_dandi_anto.pdf" download="" className="button group">
                         Download CV
                         <FileText className="ml-4 w-4 h-4 transition-transform group-hover:rotate-12 group-hover:scale-110" />
                     </a>

@@ -21,7 +21,9 @@
     "yup": "^1.7.1"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.23",
     "eslint": "^9",
-    "eslint-config-next": "16.1.1"
+    "eslint-config-next": "16.1.1",
+    "postcss": "^8.5.6"
   }
 }
